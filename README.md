@@ -11,7 +11,7 @@ A small tool to upload your file to your Firebase Storage.
 ### How to Build
 1. Clone this repo
     ```sh
-    $ git clone git@github.com:kodebineri/storage-uploader.git
+    $ git clone https://github.com/kodebineri/storage-uploader.git
     ```
 
 2. Install dependencies and build
